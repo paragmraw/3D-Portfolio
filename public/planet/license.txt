@@ -1,0 +1,11 @@
+Model Information:
+* title:	Batarang
+* source:	https://sketchfab.com/3d-models/batarang-1054f32b8fe44894ad17565db3a04d25
+* author:	Killian_Delias (https://sketchfab.com/Killian_Delias)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Batarang" (https://sketchfab.com/3d-models/batarang-1054f32b8fe44894ad17565db3a04d25) by Killian_Delias (https://sketchfab.com/Killian_Delias) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
